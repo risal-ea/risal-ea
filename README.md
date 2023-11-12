@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/risal_ea" target="blank"><img src="https://img.shields.io/twitter/follow/risal_ea?logo=twitter&style=for-the-badge" alt="risal_ea" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 Expanding knowledge about  **Full stack development**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERN**
 
