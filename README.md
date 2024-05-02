@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Risal</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 <p align="left"> <a href="https://twitter.com/risal_ea" target="blank"><img src="https://img.shields.io/twitter/follow/risal_ea?logo=twitter&style=for-the-badge" alt="risal_ea" /></a> </p>
 
-- 🌱 Expanding knowledge about  **Full stack development**
-
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERN**
+- 🌱 Expanding knowledge in  **Programming **
 
 - 📫 How to reach me **risalea.22@gmail.com**
 <h3 align="left">Connect with me:</h3>
