@@ -1,17 +1,33 @@
-<h1 align="center">Hi 👋, I'm Risal</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h2 align="center"><samp> Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30"> welcome to my Github! I'm a FLUTTER developer and I also like UI/UX designing </samp></h2>
 
-<p align="left"> <a href="https://twitter.com/risal_ea" target="blank"><img src="https://img.shields.io/twitter/follow/risal_ea?logo=twitter&style=for-the-badge" alt="risal_ea" /></a> </p>
-
-- 🌱 Expanding knowledge in  **Programming **
-
-- 📫 How to reach me **risalea.22@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/risal_ea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="risal_ea" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/risal-ea-19a187226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/risal-ea-19a187226/" height="30" width="40" /></a>
-<a href="https://instagram.com/risaleey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risaleey" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/risalea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/risalea" height="30" width="40" /></a>
+<p align="center">
+  <img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHViZHkyMjMxcmdpZjZmc3ltOHp3cms1eXk2Mm5xZG94a3FhYzIyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZEUODEtQiUZWGg6IHR/giphy.gif">
 </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=risal-ea&" alt="risal-ea" /></p>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risal-ea&layout=compact&theme=dracula&private=true">
+      </td>
+      <td style="padding-left: 20px;" align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+        <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white">
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white">
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center"><samp>
+  Check out my repos <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd1Z2ppcXAzNjJiYWFoOXQzOTcya2N3bmh4M2t1dHc4YjV0ajNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QmGShkWAWid2hzCqHE/giphy.gif" width="15" 
+</samp></p>
