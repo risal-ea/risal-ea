@@ -1,4 +1,4 @@
-<h2 align="center"><samp> Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30"> welcome to my Github! I'm a Mobile APP developer specialised in FLUTTER and I also like UI/UX designing </samp></h2>
+<h2 align="center"><samp> Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30"> welcome to my Github! I'm a Mobile APP developer, Specialised in FLUTTER and I also like UI/UX designing </samp></h2>
 
 <p align="center">
   <img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHViZHkyMjMxcmdpZjZmc3ltOHp3cms1eXk2Mm5xZG94a3FhYzIyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZEUODEtQiUZWGg6IHR/giphy.gif">
